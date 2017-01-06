@@ -1,0 +1,6 @@
+{ 
+   "firstname":"Smith",
+   "lastname":"Peter", 
+   "phone":8475552222,
+   "address":["100 Main Street","Corpus","Oklahoma"] 
+}
